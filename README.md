@@ -1,4 +1,7 @@
+![Snake banner](banner.png)
+
 # Snake
+
 
 Klasyczna gra Snake napisana w Pythonie z użyciem pygame-ce. Zawiera tryb dla jednego i dwóch graczy oraz zapis rekordu w bazie SQLite.
 
